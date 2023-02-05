@@ -26,7 +26,7 @@ const Main = (props: FlexProps) => {
           borderColor="gray.300"
         >
           <Text>Wednesday, February 1st</Text>
-          <Heading>Good Evening, Naveed R.</Heading>
+          <Heading>Good Evening, Jennifer A.</Heading>
         </VStack>
 
         <VStack

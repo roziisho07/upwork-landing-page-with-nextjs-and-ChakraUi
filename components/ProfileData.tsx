@@ -7,7 +7,7 @@ import {
   Box,
   HStack,
 } from "@chakra-ui/react";
-import profile from "../components/images/profile.png";
+import profile from "../components/images/profile.jpg";
 import Image from "next/image";
 
 import { FaPaperPlane } from "react-icons/fa";
@@ -51,7 +51,7 @@ function ProfileData() {
             mt="20px"
             _hover={{ color: "green" }}
           >
-            <Link href="/profile">Naveed Roy</Link>
+            <Link href="/profile">Jennifer A.</Link>
           </Heading>
           <Text size={"sm"} mt="sm">
             Photographer

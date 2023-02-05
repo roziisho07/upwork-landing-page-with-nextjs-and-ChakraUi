@@ -34,7 +34,7 @@ import { FaPaperPlane } from "react-icons/fa";
 import { MdDoorbell, MdHelp } from "react-icons/md";
 import Image from "next/image";
 import Logo from "../components/images/upwork.svg";
-import profile from "../components/images/profile.png";
+import profile from "../components/images/profile.jpg";
 import Head from "next/head";
 export default function Header() {
   const { isOpen, onToggle } = useDisclosure();
